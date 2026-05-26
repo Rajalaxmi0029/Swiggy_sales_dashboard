@@ -43,7 +43,7 @@ Food delivery businesses generate large volumes of transactional data daily. Thi
 
 ## Dashboard Preview
 
-(Add screenshot here after upload)
+![Dashboard Preview](dashboard-preview.png.png)
 
 ---
 
